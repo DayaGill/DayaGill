@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I’m Dayaveer Gill
 
-<!--
-**DayaGill/DayaGill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student interested in embedded and systems-level software.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- STM32, ARM, embedded C/C++
+- Python, Java
+- Git/GitHub
+- Communication protocols: CAN, UART, TCP/IP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects (Pinned Below)
+- STM32 Embedded Systems (PWM, ADC, I2C)
+- Embedded TCP ↔ Java UI
+- ARM RPN Calculator
+
+### 🎯 Seeking
+Software / embedded systems co-op roles.
+
+📫 Contact: Gilld3@myumanitoba.ca
