@@ -1,6 +1,6 @@
 ## Hi, I’m Dayaveer Gill
 
-Computer Engineering student interested in embedded and systems-level software.
+4th year Computer Engineering student interested in embedded and systems-level software.
 
 ### 🔧 Skills
 - STM32, ARM, embedded C/C++
